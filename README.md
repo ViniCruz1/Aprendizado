@@ -1,4 +1,4 @@
-# Linux
+# Aprendizado
 
 Documentação referente aos comandos de Linux que irei aprender em minha jornada...
 
