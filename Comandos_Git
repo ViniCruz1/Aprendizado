@@ -9,7 +9,7 @@ Creio que os três pontos logo acima seria o basico do fluxo do git.
 COMANDOS BÁSICOS:
 -git add <lista de arquivos> = Esse comando serve para adicionar todos os arquivos novos e modificados para o próximo commit. OBS: caso utilize a sintaxe "git add ." você irá atualizar todos os arquivos do diretório que estiverem propensos para serem enviados ao próximo commit.
 
-- git commit = Registra todos os arquivos que utilizou o "git add". DICA, utilizar a sintaxe "git commit -m "MENSAGEM PARA DOCUMENTAÇÃO"" facilita para enviar os commits e documentar mais rápido, caso aja necessidade.
+-git commit = Registra todos os arquivos que utilizou o "git add". DICA, utilizar a sintaxe "git commit -m "MENSAGEM PARA DOCUMENTAÇÃO"" facilita para enviar os commits e documentar mais rápido, caso aja necessidade.
 
 -git status = Status do repositório.
 
