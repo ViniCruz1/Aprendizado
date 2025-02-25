@@ -2,3 +2,4 @@ Comandos básicos Linux
 pwd = Mostra o caminho que estou dentro do sistema de arquivos do Linux.
 mkdir = Cria diretórios. OBS: Não confundir com o touch.
 cd .. = Volta para o ultimo diretório do caminho.
+Rebase teste.
